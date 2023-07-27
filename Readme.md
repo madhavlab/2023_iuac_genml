@@ -2,7 +2,7 @@ Link for phi4 MCMC simulation:
 
   https://drive.google.com/file/d/1AK5y63vTt-i9nk7hFJyxsw2GNolx8v0c/view?usp=drive_link
 
-  https://drive.google.com/file/d/1ucsMzXQ5L5TTOIJc9zPXXuV8W99T8dad/view?usp=drive_link
+  https://drive.google.com/file/d/13lWQyAaHcqJi0vxRuCCvXAj6D-UkDvz1/view?usp=drive_link
   
 Link for NF model:
 
