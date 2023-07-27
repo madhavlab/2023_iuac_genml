@@ -6,8 +6,9 @@ Link for phi4 MCMC simulation:
   
 Link for NF model:
 
-https://colab.research.google.com/drive/1Ac9GjcAysyEzbH_2OCZmFtjQZdZNfGQh?ouid=113538963653305966654&usp=drive_link
-https://drive.google.com/file/d/19yN9gVKud1nd3HCMbqRxSM9BypxZ7x6v/view?usp=drive_link
+  https://colab.research.google.com/drive/1Ac9GjcAysyEzbH_2OCZmFtjQZdZNfGQh?ouid=113538963653305966654&usp=drive_link
+  https://drive.google.com/file/d/19yN9gVKud1nd3HCMbqRxSM9BypxZ7x6v/view?usp=drive_link
+
 Saved model :
-https://drive.google.com/file/d/1-ipaiIcUq9YoMV0SNOgRwrFYCq1g2xar/view?usp=drive_link
+  https://drive.google.com/file/d/1-ipaiIcUq9YoMV0SNOgRwrFYCq1g2xar/view?usp=drive_link
 
